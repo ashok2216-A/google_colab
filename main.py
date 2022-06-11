@@ -1,3 +1,3 @@
 #python
 #python
-dd
+print('afaafafffafaf')
